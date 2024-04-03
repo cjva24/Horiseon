@@ -4,7 +4,7 @@ This repository contains the completed "on the job ticket" for Coding Bootcamp C
 
 ## Completed Project
 
-Find the finished product [here](link_to_finished_product).
+Find the finished product [here](https://rainbow-rabanadas-eb6a30.netlify.app/).
 
 ## Learning Objectives
 
